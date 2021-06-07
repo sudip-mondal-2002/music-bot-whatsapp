@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp_music_bot",
+  "version": "2.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "ts-node-dev --transpile-only --ignore-watch node_modules src/main.ts"
+  },
+  "dependencies": {
+    "qrcode-terminal": "*",
+    "whatsapp-web.js": "*",
+    "yt-dl-playlist": "*",
+    "yt-search": "*"
+  },
+  "devDependencies": {
+    "@types/yt-search": "^2.3.0",
+    "@typescript-eslint/eslint-plugin": "^4.9.0",
+    "@typescript-eslint/parser": "^4.9.0",
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.2.0",
+    "prettier": "^2.2.1",
+    "ts-node-dev": "^1.0.0",
+    "typescript": "^4.1.2"
+  }
+}
