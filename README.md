@@ -12,7 +12,7 @@
 
 ```cmd
 > git clone https://github.com/sudip-mondal-2002/music-bot-whatsapp.git
-> cd music-bit-whatsapp
+> cd music-bot-whatsapp
 ```
 
 ## 🛠️ Installing the FFmpeg
