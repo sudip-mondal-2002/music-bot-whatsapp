@@ -5,7 +5,8 @@
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
 * Any text editor
-
+## Link to tutorial video
+<a href="https://www.youtube.com/watch?v=00XkvNImLsg"> Youtube video </a>
 # Installation
 
 ## 📝 Cloning this repo
